@@ -2,8 +2,7 @@
 
 main()
 {
-    printf("hello");
-    printf("word");
+    printf("hello word/n");
 }
 
  
