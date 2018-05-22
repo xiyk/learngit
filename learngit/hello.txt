@@ -2,9 +2,9 @@
 
 main()
 {
-    printf("hello new word/n");
-    return (0)£»
-   
+    printf("hello");
+    printf("word");
+    printg("\n");
 }
 
  
