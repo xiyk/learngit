@@ -3,3 +3,4 @@ for (i = 0; i < n; i++)
      if (a[f] == b[j])
            found = 1;
     if (found)
+}
