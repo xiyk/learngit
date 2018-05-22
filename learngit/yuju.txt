@@ -1,7 +1,0 @@
-viod itoa(int m, char s[])
-{
-    int i, sign;
-  
-    if {(sign = n) < 0)
-     n = -n;
- i = 0

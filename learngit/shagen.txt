@@ -1,5 +1,0 @@
-#include <stio.h>
-
-main()
-{
-   int fahr fahr, celsius;
