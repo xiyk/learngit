@@ -6,6 +6,8 @@ main()
     printf("word");
     printg("\n");
 }
+int  a=1;
+
 
  
 
